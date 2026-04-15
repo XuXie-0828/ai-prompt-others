@@ -847,16 +847,125 @@ Highlight the core novelty. Ensure the connection logic makes sense."""
 
 ---
 ## 顶刊
-国际期刊里，经济学实证最常被当作第一梯队风格参照的，是 American Economic Review (AER)、Quarterly Journal of Economics (QJE)、Journal of Political Economy (JPE)、Econometrica、Review of Economic Studies (REStud)。这些期刊的官方页面都强调自己是 general-interest 或核心顶级经济学刊物；REStud 官方更直接写到它如今被广泛视为“core top-five economics journals”之一。
+一、国际期刊
+1. 经济学
 
-如果你偏管理/组织/战略，更适合参考 Academy of Management Journal (AMJ)、Academy of Management Review (AMR)、Management Science、Strategic Management Journal (SMJ)。这些期刊的官方定位也很清楚：AMJ强调“理论贡献 + 实证贡献”，AMR强调“理论推进”，Management Science 强调分析性和管理理论/实践结合，SMJ强调回答重要的战略管理问题。
+American Economic Review (AER)
+Quarterly Journal of Economics (QJE)
+Journal of Political Economy (JPE)
+Econometrica
+Review of Economic Studies (REStud)
 
-如果你偏金融，最常用来做风格标杆的是 Journal of Finance (JF)、Journal of Financial Economics (JFE)、Review of Financial Studies (RFS)。这三本期刊的官方页面都把自己定位为金融学核心研究发表平台。
+2. 综合管理 / 组织 / 战略
 
-中文期刊这边，没有所有学校、所有学科都完全一致的“唯一名单”；但如果你要让 Codex 模仿中文经管实证论文的一线写法，我建议优先参考这些：
-经济学/应用经济可参考《经济研究》《管理世界》《中国工业经济》《世界经济》《数量经济技术经济研究》；
-管理学可参考《南开管理评论》《管理科学学报》；
-“三农”或发展/农村方向可参考《中国农村经济》。这些刊物的官方页面或主管主办单位介绍里，普遍会把它们界定为权威学术期刊、重要学术期刊，或国内相关领域的重要发表平台。
+Academy of Management Journal (AMJ)
+Academy of Management Review (AMR)
+Administrative Science Quarterly (ASQ)
+Management Science
+Organization Science
+Strategic Management Journal (SMJ)
+Journal of International Business Studies (JIBS)
+
+3. 金融学
+
+Journal of Finance (JF)
+Journal of Financial Economics (JFE)
+Review of Financial Studies (RFS)
+Review of Finance
+Journal of Financial and Quantitative Analysis (JFQA)
+
+4. 会计学
+
+The Accounting Review (TAR)
+Journal of Accounting and Economics (JAE)
+Journal of Accounting Research (JAR)
+Review of Accounting Studies
+Contemporary Accounting Research
+Accounting, Organizations and Society
+
+5. 市场营销
+
+Journal of Marketing (JM)
+Journal of Marketing Research (JMR)
+Marketing Science
+Journal of Consumer Research (JCR)
+Journal of the Academy of Marketing Science (JAMS)
+
+6. 运营与决策科学
+
+Operations Research (OR)
+Manufacturing & Service Operations Management (M&SOM)
+Production and Operations Management (POM)
+
+7. 组织行为 / 人力资源
+
+Journal of Applied Psychology (JAP)
+Personnel Psychology
+Human Resource Management (HRM)
+
+8. 创新 / 创业
+
+Research Policy
+Entrepreneurship Theory and Practice (ETP)
+Journal of Business Venturing (JBV)
+
+二、中文期刊
+1. 经济学 / 应用经济 / 金融 / 会计
+
+《经济研究》
+《经济学季刊》
+《世界经济》
+《金融研究》
+《中国工业经济》
+《会计研究》
+《审计研究》
+《财经研究》
+《经济科学》
+《财贸经济》
+《中国会计评论》
+《中国会计与财务研究》
+《中国农村经济》
+《数量经济技术经济研究》
+
+2. 管理学
+
+《管理世界》
+《南开管理评论》
+《管理科学学报》
+《科研管理》
+《中国软科学》
+《科学学研究》
+《管理科学》
+
+3. 综合类
+
+《中国社会科学》
+
+三、如果你要给 Codex 一个更干净的“核心列表”
+国际核心
+
+AER
+QJE
+JPE
+Econometrica
+REStud
+AMJ
+AMR
+Management Science
+SMJ
+JF
+JFE
+RFS
+
+中文核心
+
+《经济研究》
+《管理世界》
+《中国工业经济》
+《世界经济》
+《数量经济技术经济研究》
+《南开管理评论》
+《管理科学学报》
 ---
 # Part II: 论文写作相关的 Agent-Skills
 
